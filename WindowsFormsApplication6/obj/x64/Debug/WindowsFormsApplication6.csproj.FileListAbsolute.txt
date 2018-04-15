@@ -1,0 +1,45 @@
+C:\Users\uzair\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\x64\Debug\WindowsFormsApplication6.exe.config
+C:\Users\uzair\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\x64\Debug\WindowsFormsApplication6.exe
+C:\Users\uzair\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\x64\Debug\WindowsFormsApplication6.pdb
+C:\Users\uzair\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\uzair\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\WindowsFormsApplication6.Form2.resources
+C:\Users\uzair\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\WindowsFormsApplication6.Form3.resources
+C:\Users\uzair\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\uzair\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\uzair\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\WindowsFormsApplication6.exe
+C:\Users\uzair\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\WindowsFormsApplication6.pdb
+E:\WindowsFormsApplication6\WindowsFormsApplication6\bin\x64\Debug\WindowsFormsApplication6.exe.config
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\WindowsFormsApplication6.exe
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\WindowsFormsApplication6.pdb
+E:\WindowsFormsApplication6\WindowsFormsApplication6\bin\x64\Debug\WindowsFormsApplication6.exe
+E:\WindowsFormsApplication6\WindowsFormsApplication6\bin\x64\Debug\WindowsFormsApplication6.pdb
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\WindowsFormsApplication6.Form1.resources
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\WindowsFormsApplication6.Form2.resources
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\WindowsFormsApplication6.Form3.resources
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\WindowsFormsApplication6.Properties.Resources.resources
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\WindowsFormsApplication6.Form4.resources
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+E:\WindowsFormsApplication6\WindowsFormsApplication6\bin\x64\Debug\WindowsFormsApplication6.exe.manifest
+E:\WindowsFormsApplication6\WindowsFormsApplication6\bin\x64\Debug\WindowsFormsApplication6.application
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\WindowsFormsApplication6.exe.manifest
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\WindowsFormsApplication6.application
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\WindowsFormsApplication6.Form5.resources
+E:\WindowsFormsApplication6\WindowsFormsApplication6\bin\x64\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\WindowsFormsApplication6\WindowsFormsApplication6\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+E:\WindowsFormsApplication6\WindowsFormsApplication6\bin\x64\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\WindowsFormsApplication6\WindowsFormsApplication6\bin\x64\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\WindowsFormsApplication6\WindowsFormsApplication6\bin\x64\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\WindowsFormsApplication6\WindowsFormsApplication6\bin\x64\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\WindowsFormsApplication6\WindowsFormsApplication6\bin\x64\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\WindowsFormsApplication6\WindowsFormsApplication6\bin\x64\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\WindowsFormsApplication6\WindowsFormsApplication6\bin\x64\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\WindowsFormsApplication6\WindowsFormsApplication6\bin\x64\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\WindowsFormsApplication6\WindowsFormsApplication6\bin\x64\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\WindowsFormsApplication6\WindowsFormsApplication6\bin\x64\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\WindowsFormsApplication6.Form6.resources
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\RdlCompile.cache
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\RdlCompile.compiled
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\WindowsFormsApplication6.Form7.resources
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\WindowsFormsApplication6.Form8.resources
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x64\Debug\WindowsFormsApplication6.Form9.resources

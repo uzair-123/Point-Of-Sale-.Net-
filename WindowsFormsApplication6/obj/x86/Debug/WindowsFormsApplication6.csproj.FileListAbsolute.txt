@@ -1,0 +1,23 @@
+C:\Users\uzair\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\x86\Debug\WindowsFormsApplication6.exe.config
+C:\Users\uzair\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\x86\Debug\WindowsFormsApplication6.exe
+C:\Users\uzair\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\x86\Debug\WindowsFormsApplication6.pdb
+C:\Users\uzair\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\uzair\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form2.resources
+C:\Users\uzair\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form3.resources
+C:\Users\uzair\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\uzair\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\uzair\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+C:\Users\uzair\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+C:\Users\uzair\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+E:\WindowsFormsApplication6\WindowsFormsApplication6\bin\x86\Debug\WindowsFormsApplication6.exe.config
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+E:\WindowsFormsApplication6\WindowsFormsApplication6\bin\x86\Debug\WindowsFormsApplication6.exe
+E:\WindowsFormsApplication6\WindowsFormsApplication6\bin\x86\Debug\WindowsFormsApplication6.pdb
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form2.resources
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form3.resources
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+E:\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form4.resources
